@@ -20,3 +20,8 @@ Team Members:
 
 ## B. PLANNING THE PROJECT
 ### :clipboard: Project Management Life-Cycle
+| ![gantt chart](https://user-images.githubusercontent.com/85090534/147879194-da37f5c1-bb40-458e-a8c6-c95a79e9b415.png) |
+|:--:| 
+| *Figure 1: Gantt Chart* |
+
+
