@@ -24,4 +24,8 @@ Team Members:
 |:--:| 
 | *Figure 1: Gantt Chart* |
 
+| ![WBS](https://user-images.githubusercontent.com/85090534/147879599-5289bb4b-eba6-4c23-86fa-8956cb114459.PNG) |
+|:--:| 
+| *Figure 2: Work Breakdown Structure* |
 
+### :scroll: Risk Identification Chart
