@@ -28,4 +28,5 @@ Team Members:
 |:--:| 
 | *Figure 2: Work Breakdown Structure* |
 
-### :scroll: Risk Identification Chart
+### :scroll: Responsibility Assignment Matrices (RAM) :
+
