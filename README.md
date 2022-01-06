@@ -33,7 +33,7 @@ Team Members:
 |:--:| 
 | *Figure 3: Responsibility Assignment Matrices I* |
 
-| !![RAM(part2)](https://user-images.githubusercontent.com/85090534/148410877-381c8065-69ee-41ed-bc99-184fcb25df84.PNG) |
+| ![RAM(part2)](https://user-images.githubusercontent.com/85090534/148410877-381c8065-69ee-41ed-bc99-184fcb25df84.PNG) |
 |:--:| 
 | *Figure 4: Responsibility Assignment Matrices II* |
 
@@ -43,3 +43,24 @@ Nurul Aishah binti Mohd Zaini       | Project Manager
 Nurul 'Izzah binti Muhammad Zawave  | Programming Engineer
 Siti Kamariah binti Ismail          | Financial Analyst
 Thanushaini A/P Poobalan            | Human Resource Manager
+
+### :memo: Project Planning Summary :
+Modules/Components                  | Budget (RM)                | Schedule                            | Responsibility                | 
+----------------------------------  | -------------------------- | ----------------------------------- | ----------------------------- |
+Student's Face Database             | 250,000.00                 | 15 November 2021 - 25 November 2021 | Collect & Label Data          |
+Student Face Recognition            | 1,2000,000.00              | 1 December 2021 - 31 December 2021  | Training & Testing Data       |
+Online Exam Website                 | 600,000.00                 | 15 December 2021 - 5 January 2022   | Web Development & Integration |
+
+## C. IMPLEMENTING THE PROJECT PLAN
+**### :book: Deliverables**
+* Planning Deliverables
+* Analysis Deliverables
+* Design Deliverables
+* Implementation Deliverables
+
+**### :pushpin: Estimated Costs and Tasks**
+Task                                | Estimated Cost (RM)        | Schedule                            | 
+----------------------------------  | -------------------------- | ----------------------------------- | 
+Student's Face Database             | 250,000.00                 | 15 November 2021 - 25 November 2021 |
+Student Face Recognition            | 1,2000,000.00              | 1 December 2021 - 31 December 2021  |
+Online Exam Website                 | 600,000.00                 | 15 December 2021 - 5 January 2022   |
