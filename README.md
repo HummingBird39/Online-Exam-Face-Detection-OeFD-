@@ -33,6 +33,13 @@ Team Members:
 |:--:| 
 | *Figure 3: Responsibility Assignment Matrices I* |
 
-| ![RAM(part1)](https://user-images.githubusercontent.com/85090534/148410584-47082a0b-c6b3-475c-9d93-cc84acf55894.PNG) |
+| !![RAM(part2)](https://user-images.githubusercontent.com/85090534/148410877-381c8065-69ee-41ed-bc99-184fcb25df84.PNG) |
 |:--:| 
 | *Figure 4: Responsibility Assignment Matrices II* |
+
+Name                                | Roles
+----------------------------------  | -----------------------
+Nurul Aishah binti Mohd Zaini       | Project Manager
+Nurul 'Izzah binti Muhammad Zawave  | Programming Engineer
+Siti Kamariah binti Ismail          | Financial Analyst
+Thanushaini A/P Poobalan            | Human Resource Manager
