@@ -8,12 +8,12 @@ Customer: University Students (Mock)
 Project name: Online exam Face Detection (OeFD) 
 
 Team Members:
-Name                                | Roles             
-----------------------------------  | -----------------------
-Nurul Aishah binti Mohd Zaini       | Project Manager
-Nurul 'Izzah binti Muhammad Zawave  | Programming Engineer
-Siti Kamariah binti Ismail          | Financial Analyst
-Thanushaini A/P Poobalan            | Human Resource Manager
+Name                                | Matrics Number          | Role                    |             
+----------------------------------  | ----------------------- | ----------------------- |
+Nurul Aishah binti Mohd Zaini       | B031910009              | Project Manager         |
+Nurul 'Izzah binti Muhammad Zawave  | B031910128              | Programming Engineer    |
+Siti Kamariah binti Ismail          | B031910052              | Financial Analyst       |
+Thanushaini A/P Poobalan            | B031910159              | Human Resource Manager  |  
 
 
 ### :scroll: Objectives
@@ -78,3 +78,18 @@ Implementation                      | 5 January 2022             | TBA          
 | *Figure 5: Flow Diagram* |
 
 ### :page_facing_up: CODING:
+
+## E. COMPLETING THE PROJECT
+### :clipboard: Closing Checklist
+:white_check_mark: Sign Off
+:white_check_mark: Lesson Learned
+:white_check_mark: Final Project Report
+:white_check_mark: Close Contract
+
+## F. PROJECT PRESENTATION
+### :round_pushpin: Presentation Video
+* Click the video below to watch our presentation
+
+### :round_pushpin: System Demonstration Video
+* Click the video below to watch our system demonstration
+
