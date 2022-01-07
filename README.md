@@ -49,13 +49,13 @@ Student Face Recognition            | 1,2000,000.00              | 1 December 20
 Online Exam Website                 | 600,000.00                 | 15 December 2021 - 5 January 2022   | Web Development & Integration |
 
 ## C. IMPLEMENTING THE PROJECT PLAN
-**### :book: Deliverables**
+### :book: Deliverables
 * Planning Deliverables
 * Analysis Deliverables
 * Design Deliverables
 * Implementation Deliverables
 
-**### :pushpin: Estimated Costs and Tasks**
+### :pushpin: Estimated Costs and Tasks
 Task                                | Estimated Cost (RM)        | Schedule                            | 
 ----------------------------------  | -------------------------- | ----------------------------------- | 
 Student's Face Database             | 250,000.00                 | 15 November 2021 - 25 November 2021 |
