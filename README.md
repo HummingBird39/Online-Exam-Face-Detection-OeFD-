@@ -8,10 +8,13 @@ Customer: University Students (Mock)
 Project name: Online exam Face Detection (OeFD) 
 
 Team Members:
-* Nurul Aishah binti Mohd Zaini
-* Thanushaini A/P Poobalan
-* Siti Kamariah binti Ismail
-* Nurul 'Izzah binti Muhammad Zawave
+Name                                | Roles
+----------------------------------  | -----------------------
+Nurul Aishah binti Mohd Zaini       | Project Manager
+Nurul 'Izzah binti Muhammad Zawave  | Programming Engineer
+Siti Kamariah binti Ismail          | Financial Analyst
+Thanushaini A/P Poobalan            | Human Resource Manager
+
 
 ### :scroll: Objectives
 * Identify registered students by using face recognition
@@ -37,12 +40,6 @@ Team Members:
 |:--:| 
 | *Figure 4: Responsibility Assignment Matrices II* |
 
-Name                                | Roles
-----------------------------------  | -----------------------
-Nurul Aishah binti Mohd Zaini       | Project Manager
-Nurul 'Izzah binti Muhammad Zawave  | Programming Engineer
-Siti Kamariah binti Ismail          | Financial Analyst
-Thanushaini A/P Poobalan            | Human Resource Manager
 
 ### :memo: Project Planning Summary :
 Modules/Components                  | Budget (RM)                | Schedule                            | Responsibility                | 
