@@ -8,7 +8,7 @@ Customer: University Students (Mock)
 Project name: Online exam Face Detection (OeFD) 
 
 Team Members:
-Name                                | Roles
+Name                                | Roles             
 ----------------------------------  | -----------------------
 Nurul Aishah binti Mohd Zaini       | Project Manager
 Nurul 'Izzah binti Muhammad Zawave  | Programming Engineer
@@ -56,8 +56,25 @@ Online Exam Website                 | 600,000.00                 | 15 December 2
 * Implementation Deliverables
 
 ### :pushpin: Estimated Costs and Tasks
-Task                                | Estimated Cost (RM)        | Schedule                            | 
+Task                                | Estimated Cost (RM)        | Comments                            | 
 ----------------------------------  | -------------------------- | ----------------------------------- | 
-Student's Face Database             | 250,000.00                 | 15 November 2021 - 25 November 2021 |
-Student Face Recognition            | 1,2000,000.00              | 1 December 2021 - 31 December 2021  |
-Online Exam Website                 | 600,000.00                 | 15 December 2021 - 5 January 2022   |
+Acquisition                         | 1,318,157.50               | Software, Hardware, Data Collection |
+Design                              | 119,000.00                 | System Design, Training & Testing   |
+Restoration                         | 985,279.00                 | System Installation, Maintenance    |
+
+### :date: Milestone Chart
+Milestone                           | Scheduled Completion       | Actual Completion                   | 
+----------------------------------  | -------------------------- | ----------------------------------- | 
+Planning                            | 21 October 2021            | 30 October 2021                     |
+Analysis                            | 15 November 2021           | 20 November 2021                    |
+Design                              | 31 December 2021           | 29 December 2021                    |
+Implementation                      | 5 January 2022             | TBA                                 |
+
+## D. EXECUTING THE PROJECT 
+### :open_file_folder: Project Design and Coding
+### Flow Diagram
+| ![RAM(part2)](https://user-images.githubusercontent.com/85090534/148410877-381c8065-69ee-41ed-bc99-184fcb25df84.PNG) |
+|:--:| 
+| *Figure 5: Flow Diagram* |
+
+### :page_facing_up: CODING:
