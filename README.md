@@ -81,7 +81,7 @@ Implementation                      | 5 January 2022             | TBA          
 
 ## E. COMPLETING THE PROJECT
 ### :clipboard: Closing Checklist
-* :white_check_mark: Sign Off
+- :white_check_mark: Sign Off
 * :white_check_mark: Lesson Learned
 * :white_check_mark: Final Project Report
 * :white_check_mark: Close Contract
