@@ -99,8 +99,9 @@ Implementation                      | 5 January 2022             | 10 January 20
 | *Figure 8: Record the date and time of student* |
 - The time of when the student enters the hall and exits the hall is recorded and saved in a csv file, as well as the image captured and detected timely throughout the exam. 
 
-## GUI CODING USING QT DESIGNER:
+### GUI CODING USING QT DESIGNER:
 - Qt Designer is used in creating the app interface for student's face detection before entering the virtual exam hall
+
 |![GUI main interface framework](https://user-images.githubusercontent.com/85090534/149968380-93ecf950-e246-4f40-8aaf-bf61b1b18ad7.PNG)|
 |:--:| 
 | *Figure 9: GUI framework for the interface* |
