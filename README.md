@@ -79,16 +79,29 @@ Implementation                      | 5 January 2022             | 10 January 20
 
 ### :page_facing_up: CODING:
 - Library packages needed:
+| ![Library packages](https://user-images.githubusercontent.com/85090534/149967328-07ff3d6d-900a-4965-b313-225364fe4a44.PNG) |
+|:--:| 
+| *Figure 6: List of library packages needed* |
 - Steps needed in order to successfully install face_recognition package
   - Step 1: pip install cmake
   - Step 2: pip install dlib
   - Step 3: pip install face_recognition
 
+|![Face Recognition](https://user-images.githubusercontent.com/85090534/149967776-5efe261b-17de-4683-88cb-f736386d0c0d.PNG)|
+|:--:| 
+| *Figure 7: Face Recognition algorithm* |
 - For every face successfully detected by the algorithm by applying our trained model, a green bounding box is placed on the student's face with their name displayed. (Face Recognition)
+
+|![Face Recognition 2](https://user-images.githubusercontent.com/85090534/149968025-4771d2d7-f4f1-436f-89dd-84fc9f8d9b18.PNG)|
+|:--:| 
+| *Figure 8: Record the date and time of student* |
 - The time of when the student enters the hall and exits the hall is recorded and saved in a csv file, as well as the image captured and detected timely throughout the exam. 
 
 ## GUI CODING USING QT DESIGNER:
 - Qt Designer is used in creating the app interface for student's face detection before entering the virtual exam hall
+|![GUI main interface framework](https://user-images.githubusercontent.com/85090534/149968380-93ecf950-e246-4f40-8aaf-bf61b1b18ad7.PNG)|
+|:--:| 
+| *Figure 9: GUI framework for the interface* |
 
 ### :page_facing_up: PROJECT RESULT:
 
