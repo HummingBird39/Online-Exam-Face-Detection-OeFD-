@@ -79,9 +79,11 @@ Implementation                      | 5 January 2022             | 10 January 20
 
 ### :page_facing_up: CODING:
 - Library packages needed:
+- 
 | ![Library packages](https://user-images.githubusercontent.com/85090534/149967328-07ff3d6d-900a-4965-b313-225364fe4a44.PNG) |
 |:--:| 
 | *Figure 6: List of library packages needed* |
+
 - Steps needed in order to successfully install face_recognition package
   - Step 1: pip install cmake
   - Step 2: pip install dlib
