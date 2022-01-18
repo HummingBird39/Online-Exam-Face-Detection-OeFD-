@@ -68,7 +68,7 @@ Milestone                           | Scheduled Completion       | Actual Comple
 Planning                            | 21 October 2021            | 30 October 2021                     |
 Analysis                            | 15 November 2021           | 20 November 2021                    |
 Design                              | 31 December 2021           | 29 December 2021                    |
-Implementation                      | 5 January 2022             | TBA                                 |
+Implementation                      | 5 January 2022             | 10 January 2022                     |
 
 ## D. EXECUTING THE PROJECT 
 ### :open_file_folder: Project Design and Coding
@@ -81,10 +81,10 @@ Implementation                      | 5 January 2022             | TBA          
 
 ## E. COMPLETING THE PROJECT
 ### :clipboard: Closing Checklist
-- :white_check_mark: Sign Off
-- :white_check_mark: Lesson Learned
-- :white_check_mark: Final Project Report
-- :white_check_mark: Close Contract
+:white_check_mark: [Sign Off](https://github.com/AinaZafirah/iFace/blob/main/Labwork/Lab%2012.pdf)
+:white_check_mark: [Lesson Learned](https://github.com/AinaZafirah/iFace/blob/main/Labwork/Lab%2012.pdf)
+:white_check_mark: [Final Project Report](https://github.com/HummingBird39/Online-Exam-Face-Detection-OeFD-)
+:white_check_mark: [Closing Contract](https://github.com/HummingBird39/Online-Exam-Face-Detection-OeFD-)
 
 ## F. PROJECT PRESENTATION
 ### :round_pushpin: Presentation Video
