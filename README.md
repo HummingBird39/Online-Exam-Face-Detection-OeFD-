@@ -134,6 +134,6 @@ Implementation                      | 5 January 2022             | 10 January 20
 ### :round_pushpin: Presentation & System Demonstration Video
 * Click the video below to watch our presentation and system demonstration
 
-### :round_pushpin: System Demonstration Video
-* Click the liink below to view our presentation slides
+### :round_pushpin: Presentation Slides
+* Click the link below to view our presentation slides
 
