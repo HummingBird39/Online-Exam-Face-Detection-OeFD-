@@ -131,9 +131,9 @@ Implementation                      | 5 January 2022             | 10 January 20
 :white_check_mark: [Closing Contract](https://github.com/HummingBird39/Online-Exam-Face-Detection-OeFD-/blob/main/Project%20Documentation/10%20Project%20Closing.pdf)
 
 ## F. PROJECT PRESENTATION
-### :round_pushpin: Presentation Video
-* Click the video below to watch our presentation
+### :round_pushpin: Presentation & System Demonstration Video
+* Click the video below to watch our presentation and system demonstration
 
 ### :round_pushpin: System Demonstration Video
-* Click the video below to watch our system demonstration
+* Click the liink below to view our presentation slides
 
