@@ -120,7 +120,7 @@ Implementation                      | 5 January 2022             | 10 January 20
 
 
 
-:white_check_mark: [Lesson Learned](https://github.com/AinaZafirah/iFace/blob/main/Labwork/Lab%2012.pdf)
+:white_check_mark: [Lesson Learned](https://github.com/HummingBird39/Online-Exam-Face-Detection-OeFD-/blob/main/Project%20Documentation/10%20Project%20Closing.pdf)
 
 
 
@@ -128,7 +128,7 @@ Implementation                      | 5 January 2022             | 10 January 20
 
 
 
-:white_check_mark: [Closing Contract](https://github.com/HummingBird39/Online-Exam-Face-Detection-OeFD-)
+:white_check_mark: [Closing Contract](https://github.com/HummingBird39/Online-Exam-Face-Detection-OeFD-/blob/main/Project%20Documentation/10%20Project%20Closing.pdf)
 
 ## F. PROJECT PRESENTATION
 ### :round_pushpin: Presentation Video
