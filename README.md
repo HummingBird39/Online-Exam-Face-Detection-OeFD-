@@ -1,4 +1,4 @@
-# Online-exam-Face-Detection (OeFD)
+# Online Exam Face Detection (OeFD)
 # PROJECT OVERVIEW
 ## A. DEFINING THE PROJECT
 ### :floppy_disk: Project Summary
