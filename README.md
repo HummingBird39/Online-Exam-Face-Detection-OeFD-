@@ -146,7 +146,7 @@ Implementation                      | 5 January 2022             | 10 January 20
 ### :round_pushpin: Presentation Video
 * Click the video below to watch our live recorded presentation
 
-[Presentation Video](https://www.youtube.com/watch?v=vYbRD4Rsmtk)
+(https://www.youtube.com/watch?v=vYbRD4Rsmtk)
 
 ### :round_pushpin: Demonstration Video
 * Click the video below to watch our demonstration video
