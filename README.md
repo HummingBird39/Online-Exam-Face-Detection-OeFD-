@@ -44,9 +44,9 @@ Thanushaini A/P Poobalan            | B031910159              | Human Resource M
 ### :memo: Project Planning Summary :
 Modules/Components                  | Budget (RM)                | Schedule                            | Responsibility                | 
 ----------------------------------  | -------------------------- | ----------------------------------- | ----------------------------- |
-Student's Face Database             | 250,000.00                 | 15 November 2021 - 25 November 2021 | Collect & Label Data          |
-Student Face Recognition            | 1,2000,000.00              | 1 December 2021 - 31 December 2021  | Training & Testing Data       |
-Online Exam Website                 | 600,000.00                 | 15 December 2021 - 5 January 2022   | Web Development & Integration |
+Student's Face Database             | 180,000.00                 | 15 November 2021 - 25 November 2021 | Collect & Label Data          |
+Student Face Recognition            | 1,0000,000.00              | 1 December 2021 - 31 December 2021  | Training & Testing Data       |
+Online Exam Website                 | 200,000.00                 | 15 December 2021 - 5 January 2022   | Web Development & Integration |
 
 ## C. IMPLEMENTING THE PROJECT PLAN
 ### :book: Deliverables
@@ -58,9 +58,9 @@ Online Exam Website                 | 600,000.00                 | 15 December 2
 ### :pushpin: Estimated Costs and Tasks
 Task                                | Estimated Cost (RM)        | Comments                            | 
 ----------------------------------  | -------------------------- | ----------------------------------- | 
-Acquisition                         | 1,318,157.50               | Software, Hardware, Data Collection |
-Design                              | 119,000.00                 | System Design, Training & Testing   |
-Restoration                         | 985,279.00                 | System Installation, Maintenance    |
+Acquisition                         | 900,000.00                 | Software, Hardware, Data Collection |
+Design                              | 300,000.00                 | System Design, Training & Testing   |
+Restoration                         | 180,279.00                 | System Installation, Maintenance    |
 
 ### :date: Milestone Chart
 Milestone                           | Scheduled Completion       | Actual Completion                   | 
