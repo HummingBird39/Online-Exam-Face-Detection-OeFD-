@@ -126,6 +126,12 @@ Implementation                      | 5 January 2022             | 10 January 20
 ![Result 4](https://user-images.githubusercontent.com/85090534/150290830-ee0d2cdb-d97d-4265-95d6-88a0fdba18eb.PNG)
 
 
+- Result 4: When an unknown or unregistered person is detected, the system will record the time it is detected and labels the person's face as 'UNKNOWN' in the csv file
+
+
+![unknown_person_detected](https://user-images.githubusercontent.com/85090534/150354308-c3990f21-1a46-45f7-beb0-433711717c6b.PNG)
+
+
 ## E. COMPLETING THE PROJECT
 ### :clipboard: Closing Checklist
 :white_check_mark: [Sign Off](https://github.com/HummingBird39/Online-Exam-Face-Detection-OeFD-/blob/main/Project%20Documentation/11%20Project%20Sign%20Off.pdf)
