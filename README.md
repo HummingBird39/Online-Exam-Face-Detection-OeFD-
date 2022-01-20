@@ -146,9 +146,12 @@ Implementation                      | 5 January 2022             | 10 January 20
 ### :round_pushpin: Presentation Video
 * Click the video below to watch our live recorded presentation
 
-[![IMAGE ALT TEXT HERE](https://user-images.githubusercontent.com/85090534/150330950-a04f6413-cf7c-41bd-99c6-b2437e044a9e.png)](https://www.youtube.com/watch?v=vYbRD4Rsmtk)
+[![IMAGE ALT TEXT HERE](https://user-images.githubusercontent.com/85090534/150332527-0a9d0e27-7235-45dc-bae6-31b9ae50b651.png)](https://www.youtube.com/watch?v=vYbRD4Rsmtk)
 
 
 
 ### :round_pushpin: Demonstration Video
 * Click the video below to watch our demonstration video
+
+
+[![IMAGE ALT TEXT HERE](https://user-images.githubusercontent.com/85090534/150332527-0a9d0e27-7235-45dc-bae6-31b9ae50b651.png)](https://www.youtube.com/watch?v=vYbRD4Rsmtk)
