@@ -154,4 +154,4 @@ Implementation                      | 5 January 2022             | 10 January 20
 * Click the video below to watch our demonstration video
 
 
-[![IMAGE ALT TEXT HERE](https://user-images.githubusercontent.com/85090534/150332527-0a9d0e27-7235-45dc-bae6-31b9ae50b651.png)](https://www.youtube.com/watch?v=vYbRD4Rsmtk)
+[![IMAGE ALT TEXT HERE](https://user-images.githubusercontent.com/85090534/150332810-e9a92426-ee41-4be9-8d6f-8ccc4cf7661d.png)](https://www.youtube.com/watch?v=vYbRD4Rsmtk)
