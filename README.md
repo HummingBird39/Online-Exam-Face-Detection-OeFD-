@@ -143,9 +143,15 @@ Implementation                      | 5 January 2022             | 10 January 20
 :white_check_mark: [Closing Contract](https://github.com/HummingBird39/Online-Exam-Face-Detection-OeFD-/blob/main/Project%20Documentation/10%20Project%20Closing.pdf)
 
 ## F. PROJECT PRESENTATION
-### :round_pushpin: Presentation & System Demonstration Video
-* Click the video below to watch our presentation and system demonstration
+### :round_pushpin: Presentation Video
+* Click the video below to watch our live recorded presentation
+
+
+### :round_pushpin: Demonstration Video
+* Click the video below to watch our demonstration video
+
 
 ### :round_pushpin: Presentation Slides
 * Click the link below to view our presentation slides
-
+| [AIPM.pptx](https://github.com/HummingBird39/Online-Exam-Face-Detection-OeFD-/files/7903526/AIPM.pptx) |
+|:--:| 
