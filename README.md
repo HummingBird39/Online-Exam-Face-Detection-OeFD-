@@ -45,7 +45,7 @@ Thanushaini A/P Poobalan            | B031910159              | Human Resource M
 Modules/Components                  | Budget (RM)                | Schedule                            | Responsibility                | 
 ----------------------------------  | -------------------------- | ----------------------------------- | ----------------------------- |
 Student's Face Database             | 180,000.00                 | 15 November 2021 - 25 November 2021 | Collect & Label Data          |
-Student Face Recognition            | 1,0000,000.00              | 1 December 2021 - 31 December 2021  | Training & Testing Data       |
+Student Face Recognition            | 1,000,000.00               | 1 December 2021 - 31 December 2021  | Training & Testing Data       |
 Online Exam Website                 | 200,000.00                 | 15 December 2021 - 5 January 2022   | Web Development & Integration |
 
 ## C. IMPLEMENTING THE PROJECT PLAN
