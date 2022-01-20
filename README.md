@@ -109,9 +109,21 @@ Implementation                      | 5 January 2022             | 10 January 20
 ### :page_facing_up: PROJECT RESULT:
 
 - Result 1: student's face detected, student can proceed to enter the exam hall
+
+![Result1](https://user-images.githubusercontent.com/85090534/150289985-d343be73-b30c-4091-be36-6ea6e3c2dcab.PNG)
+
+
 - Result 2: In the virtual exam hall, student's face is detected and authenticated in a timely manner using a timer
+
+![Result2](https://user-images.githubusercontent.com/85090534/150290246-31e05eb3-7cee-428e-b410-b23c8809b914.PNG)
+
+
 - Result 3: The time and duration spent in the exam hall is recorded in a csv file
 
+![Result 3](https://user-images.githubusercontent.com/85090534/150290789-93ee3438-25c1-4d09-9eb6-e303bc5b9931.PNG)
+
+
+![Result 4](https://user-images.githubusercontent.com/85090534/150290830-ee0d2cdb-d97d-4265-95d6-88a0fdba18eb.PNG)
 
 
 ## E. COMPLETING THE PROJECT
