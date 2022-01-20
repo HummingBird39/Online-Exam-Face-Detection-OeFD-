@@ -146,9 +146,7 @@ Implementation                      | 5 January 2022             | 10 January 20
 ### :round_pushpin: Presentation Video
 * Click the video below to watch our live recorded presentation
 
-[![Presentation Video]({https://user-images.githubusercontent.com/85090534/150328661-109040db-9bf4-4a88-a6d1-921632cac5c4.png})]({https://www.youtube.com/watch?v=vYbRD4Rsmtk} "Project Presentation (Online Exam Face Detection) (OeFD)")
-
-<a href="{https://www.youtube.com/watch?v=vYbRD4Rsmtk}" title="Link Title"><img src="{https://user-images.githubusercontent.com/85090534/150329953-468fb229-d94e-423f-a6b6-55e889573bc3.png}" alt="Alternate Text" /></a>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=vYbRD4Rsmtk)
 
 ### :round_pushpin: Demonstration Video
 * Click the video below to watch our demonstration video
