@@ -73,7 +73,7 @@ Implementation                      | 5 January 2022             | 10 January 20
 ## D. EXECUTING THE PROJECT 
 ### :open_file_folder: Project Design and Coding
 ### Flow Diagram
-| ![RAM(part2)](https://user-images.githubusercontent.com/85090534/148410877-381c8065-69ee-41ed-bc99-184fcb25df84.PNG) |
+| ![flow_diagram](https://user-images.githubusercontent.com/85090534/150286494-4166fa11-c0f1-418d-8448-0132f8e02642.jpg) |
 |:--:| 
 | *Figure 5: Flow Diagram* |
 
