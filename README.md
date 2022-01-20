@@ -153,5 +153,4 @@ Implementation                      | 5 January 2022             | 10 January 20
 
 ### :round_pushpin: Presentation Slides
 * Click the link below to view our presentation slides
-| [AIPM.pptx](https://github.com/HummingBird39/Online-Exam-Face-Detection-OeFD-/files/7903526/AIPM.pptx) |
-|:--:| 
+ [AIPM.pptx](https://github.com/HummingBird39/Online-Exam-Face-Detection-OeFD-/files/7903526/AIPM.pptx)  
